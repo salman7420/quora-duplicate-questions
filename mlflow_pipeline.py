@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+tensorflow
+torch
+transformers
+tqdm
+scipy
+mlflow
+dask
+vaex
+matplotlib
+seaborn
